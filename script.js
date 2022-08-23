@@ -1,8 +1,6 @@
 //Question 1
 
-const greet = (name) => {
-  return `Hello ${name}`;
-};
+const greet = (name) => `Hello ${name}`;
 
 const add = (a, b) => a + b;
 
